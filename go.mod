@@ -1,4 +1,4 @@
-module github.com/insanewaifu/stockfish
+module github.com/insanewaifu/go-stockfish
 
 go 1.19
 
