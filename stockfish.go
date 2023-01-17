@@ -1,5 +1,7 @@
 package stockfish
 
+// doesnt do much on its own
+
 import (
 	"bufio"
 	"fmt"
